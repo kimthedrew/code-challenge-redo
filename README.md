@@ -19,7 +19,7 @@ A Flask-based API for managing vendors, sweets, and their associations through v
 
 1. **Clone Repository**
    ```bash
-   git clone [your-repo-url]
+   git clone code-challenge-redo
    cd vendor-sweets-api
 ## License
 MIT
