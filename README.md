@@ -14,8 +14,6 @@ A Flask-based API for managing vendors, sweets, and their associations through v
 - Python 3
 - Flask
 - SQLAlchemy (ORM)
-- Flask-JWT-Extended (Authentication)
-- bcrypt (Password hashing)
 
 ## Setup
 
